@@ -20,7 +20,7 @@ Instalador profissional do OpenVPN com autenticação por usuário/senha.
 
 ```bash
 # Baixar o script
-wget https://raw.githubusercontent.com/PausaStudio/openvpn-installer/main/openvpn-install.sh
+wget https://raw.githubusercontent.com/PausaStudio/openvpn-install/refs/heads/main/openvpn-install.sh
 
 # Dar permissão
 chmod +x openvpn-install.sh
